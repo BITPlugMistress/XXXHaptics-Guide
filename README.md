@@ -37,15 +37,15 @@
 
 A. Launch Intiface Desktop installer and run GET UPDATES
 
-    ![](media/d14fe20ab5ef22664cc0c390613c1dd2.png)
+![](media/d14fe20ab5ef22664cc0c390613c1dd2.png)
 
 B.  Do not run RUN CERTSETUP
 
-    ![](media/00cb8396ea411bcc0c8ad2aa69f53b67.png)
+![](media/00cb8396ea411bcc0c8ad2aa69f53b67.png)
 
 C.  Settings -\> Server Process Settings -\> Check “Start Server when Intiface Desktop Launches”
 
-    ![](media/4cfbb5ddbb9c0615d05e8760ae3ad9e9.png)
+![](media/4cfbb5ddbb9c0615d05e8760ae3ad9e9.png)
 
 ## Part 2: Unity Setup 
 
