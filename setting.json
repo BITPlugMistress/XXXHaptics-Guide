@@ -1,0 +1,52 @@
+{
+    "app": {
+        "interval": 0.1,
+        "window_scale": 0.02,
+        "window_name": "VRChat",
+        "address": "ws://localhost:12345",
+        "threshold": 0
+    },
+    "devices": [
+        {
+            "device_name": "Lovense Hush v222",
+            "device_params": [
+                {
+                    "input_pos": [
+                        0,
+                        0
+                    ],
+                    "param_scale": 1.0,
+                    "param_max": 1.0,
+                    "clockwise": true
+                },
+                {
+                    "input_pos": [
+                        1,
+                        0
+                    ],
+                    "param_scale": 1.0,
+                    "param_max": 1.0,
+                    "clockwise": true
+                },
+                {
+                    "input_pos": [
+                        2,
+                        0
+                    ],
+                    "param_scale": 1.0,
+                    "param_max": 1.0,
+                    "clockwise": true
+                },
+                {
+                    "input_pos": [
+                        3,
+                        0
+                    ],
+                    "param_scale": 1.0,
+                    "param_max": 1.0,
+                    "clockwise": true
+                }
+            ]
+        }
+    ]
+}
