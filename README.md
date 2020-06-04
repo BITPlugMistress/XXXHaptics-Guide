@@ -51,7 +51,7 @@ C.  Settings -\> Server Process Settings -\> Check “Start Server when Intiface
 
 ### **THIS IS NOT INTENDED TO BE AN AVATAR CREATION GUIDE AND ASSUMES YOU HAVE AT LEAST SOME BASIC KNOWLEDGE ABOUT BOTH UNITY AND AVATAR CREATION. PLEASE REFER TO THE IMPORTANT LINKS SECTION FOR THE APROPREATE RESOURCES**
 
-A.  Go to the Layer Dropdown Menu and click Add Layer…
+A.  Go to the Layer Dropdown Menu at the top of the Inspector tab and click Add Layer…
 
 ![](media/281a9a43d8c62bad9bb8854532c25e38.png)
 
@@ -75,7 +75,7 @@ F.  Move HapticsSensor_X_X to desired location within the 3D Scene
 
 ![](media/457b72931dbd7f1e6fcb105c2dedc3de.png)
 
-G.  Update HapticsSensor_X_X with these settings
+G.  Update HapticsSensor_X_X to match with these settings
 
 ![](media/289c2c9bf5f043def108aa4ec6c767cc.png)
 
@@ -109,7 +109,7 @@ D.  Record Toy name IE “Lovense Hush v222”
 
 ![](media/538a09adc823400e5d8cb4ed131aec2e.png)
 
-E.  Right click “setting.json” -\> “Edit with Notepad++”
+E.  Right click “setting.json” -\> “Edit with Notepad++” or your preferred text editor
 
 ![](media/c5f9edc77e73dfabb1b57f78082a1820.png)
 
