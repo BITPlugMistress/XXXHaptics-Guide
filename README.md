@@ -10,7 +10,7 @@
 -   A computer with built-in Bluetooth OR Plugable USB Bluetooth 4.0 Low Energy Micro Adapter
 -   USB Extension Cable/Dongle highly recommended
 -   XXXHaptics
--   Iitiface Desktop
+-   itiface Desktop
 -   Notepad++
 -   Lube
 
