@@ -33,7 +33,18 @@
 -   <https://notepad-plus-plus.org/>
 -   <https://www.amazon.com/Plugable-Bluetooth-Adapter-Raspberry-Compatible/dp/B009ZIILLI>
 
-## Part 1: Intiface Desktop Setup
+## Part 1: Notes
+
+-   Support buttplug.io via Patreon
+-   Feel free to share this Guide with anyone
+-   Make sure Bluetooth Drivers are up to date
+-   XXXHaptics.exe might set off your antivirus
+-   Be safe, know your limits, and always use plenty of lube
+-   Join the buttplug.io Discord for more advanced questions
+-   This software does not modify the VRChat client in any way
+-   Log into the VRChat website first before downloading the SDK
+
+## Part 2: Intiface Desktop Setup
 
 A. Launch Intiface Desktop installer and run GET UPDATES
 
@@ -47,7 +58,7 @@ C.  Settings -\> Server Process Settings -\> Check “Start Server when Intiface
 
 ![](media/4cfbb5ddbb9c0615d05e8760ae3ad9e9.png)
 
-## Part 2: Unity Setup 
+## Part 3: Unity Setup 
 
 ### **THIS IS NOT INTENDED TO BE AN AVATAR CREATION GUIDE AND ASSUMES YOU HAVE AT LEAST SOME BASIC KNOWLEDGE ABOUT BOTH UNITY AND AVATAR CREATION. PLEASE REFER TO THE IMPORTANT LINKS SECTION FOR THE APROPREATE RESOURCES**
 
@@ -91,7 +102,7 @@ J.  DO NOT UPLOAD AS PUBLIC/SHARE THE AVATAR IT WILL BREAK REQUIRING A REUPLOAD
 
 ![](media/043a7ec81dd52af6e8104bafca8d2405.png)
 
-## Part 3: XXXHaptics Setup
+## Part 4: XXXHaptics Setup
 
 A.  Plug adapter in or enable built-in Bluetooth
 
@@ -121,7 +132,7 @@ G.  Edit the code based on your Toy/Avatar configuration and save the .json file
 
 ![](media/7af072910d32e7db4ee77801b3f077a3.png)
 
-## Part 4: Testing
+## Part 5: Testing
 
 A.  Launch VRChat and start Stream Camera by opening the Menu -\> Camera -\>Stream Camera
 
@@ -150,12 +161,3 @@ F.  Launch XXXHaptics
 G.  If everything is set up correctly the Toy should connect and react to collisions with the Sensors
 
 ![](media/f421a5bc060444d9178fb5c296567a2a.png)
-
-## Part 5: Notes
-
--   Support buttplug.io via Patreon
--   Feel free to share this Guide with anyone
--   Make sure Bluetooth Drivers are up to date
--   Be safe, know your limits, and always use plenty of lube
--   Join the buttplug.io Discord for more advanced questions
--   This software does not modify the VRChat client in any way
