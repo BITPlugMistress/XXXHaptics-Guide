@@ -124,11 +124,11 @@ E.  Right click “setting.json” -\> “Edit with Notepad++” or your preferr
 
 ![](media/c5f9edc77e73dfabb1b57f78082a1820.png)
 
-F.  Change [XXXXX] to your Toy’s name
+F.  Change [XXX] to your Toy’s name
 
 ![](media/075c3c44e8c0e7ce39d00ae7a28994f8.png)
 
-G.  Edit the code based on your Toy/Avatar configuration and save the .json file
+G.  Edit the “setting.json” based on your Toy/Avatar configuration and save the .json file
 
 ![](media/7af072910d32e7db4ee77801b3f077a3.png)
 
