@@ -66,7 +66,7 @@ A.  Go to the Layer Dropdown Menu at the top of the Inspector tab and click Add 
 
 ![](media/281a9a43d8c62bad9bb8854532c25e38.png)
 
-B.  Make sure your Tags & Layers are set up correctly
+B.  Make sure your Layers are set up correctly
 
 ![](media/0c3a17f6a680bf9e266d907e9c6c3645.png)
 
